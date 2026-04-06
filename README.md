@@ -1,2 +1,2 @@
-# men_haqimda
-O'zim haqimda yaratilgan sayt.
+# new-website
+Simple Portfolio Site!
